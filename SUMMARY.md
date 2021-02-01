@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Creating a Requester](README.md)
+* [Overview](README.md)
+* [Creating a Requester](creating-a-requester.md)
 * [Develop a Client Contract](develop-a-client-contract.md)
 
