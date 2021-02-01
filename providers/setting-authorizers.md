@@ -23,5 +23,7 @@ Allow all
 
 The simplest authorization policy is opening the endpoint to the public, so let us see how to do that first. Authorizers being set to `[0]` means that all requests made to it will be authorized \(i.e., will be responded to by Airnode\). Only the `providerAdmin` of a provider can update the authorizers of its endpoints. Therefore, you will need to make a transaction using the provider admin address \(that you have set in `config.json` as `providerAdminForRecordCreation`\) to [`EndpointStore.sol`](/request-response-protocol/general-structure.md#endpointstoresol). In JS \(using ethers.js\):
 
+### Next paragraph
+
 
 
