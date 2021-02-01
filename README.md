@@ -1,2 +1,2 @@
-# compare-gitbook
-Compare GioBook to Docusaurus
+# Initial page
+
