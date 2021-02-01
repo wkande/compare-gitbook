@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Our Docs](README.md)
+* [Document Portal](README.md)
 
